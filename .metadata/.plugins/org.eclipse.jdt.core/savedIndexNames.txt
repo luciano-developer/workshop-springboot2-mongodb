@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\workspaces\ws-springboot2-mongodb\.metadata\.plugins\org.eclipse.jdt.core
