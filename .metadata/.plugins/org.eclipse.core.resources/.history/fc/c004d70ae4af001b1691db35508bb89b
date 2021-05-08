@@ -1,0 +1,8 @@
+package com.luciano.workshopmongo.resource;
+
+public class UserResource {
+
+	public UserResource() {
+	}
+
+}

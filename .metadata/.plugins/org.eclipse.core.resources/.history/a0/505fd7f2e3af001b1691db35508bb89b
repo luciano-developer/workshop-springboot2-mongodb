@@ -1,0 +1,9 @@
+package com.luciano.workshopmongo.resource;
+
+public class UserResource {
+
+	public UserResource() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

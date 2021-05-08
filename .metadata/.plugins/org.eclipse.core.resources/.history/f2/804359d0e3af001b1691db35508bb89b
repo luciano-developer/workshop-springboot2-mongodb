@@ -1,0 +1,22 @@
+package com.luciano.workshopmongo.dominio;
+
+import java.io.Serializable;
+
+public class User implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+	public String id;
+	public String name;
+	public String email;
+	
+	public User() {
+	}
+
+	public User(String id, String name, String email) {
+		this.id = id;
+		this.name = name;
+		this.email = email;
+	}
+
+	
+}
